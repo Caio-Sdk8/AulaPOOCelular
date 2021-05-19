@@ -1,0 +1,16 @@
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\bin\Debug\net5.0\aulaPOOcelular.exe
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\bin\Debug\net5.0\aulaPOOcelular.deps.json
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\bin\Debug\net5.0\aulaPOOcelular.runtimeconfig.json
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\bin\Debug\net5.0\aulaPOOcelular.runtimeconfig.dev.json
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\bin\Debug\net5.0\aulaPOOcelular.dll
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\bin\Debug\net5.0\ref\aulaPOOcelular.dll
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\bin\Debug\net5.0\aulaPOOcelular.pdb
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\obj\Debug\net5.0\aulaPOOcelular.csprojAssemblyReference.cache
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\obj\Debug\net5.0\aulaPOOcelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\obj\Debug\net5.0\aulaPOOcelular.AssemblyInfoInputs.cache
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\obj\Debug\net5.0\aulaPOOcelular.AssemblyInfo.cs
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\obj\Debug\net5.0\aulaPOOcelular.csproj.CoreCompileInputs.cache
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\obj\Debug\net5.0\aulaPOOcelular.dll
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\obj\Debug\net5.0\ref\aulaPOOcelular.dll
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\obj\Debug\net5.0\aulaPOOcelular.pdb
+C:\Users\caio0\OneDrive\Documentos\aulaPOOcelular\obj\Debug\net5.0\aulaPOOcelular.genruntimeconfig.cache
